@@ -1,0 +1,14 @@
+{
+  "nombre": "Jhoiner Andretty Silva Montaño",
+  "rol": "Full-Stack Java Dev",
+  "ubicacion": "Barrancabermeja, Santander, Colombia",
+  "correo": "jhoinerandretty@gmail.com",
+  "github": "https://github.com/jhoiner26",
+  "tecnologias": [
+    "Java",
+    "JavaScript"
+  ],
+  "intereses": [
+    "Sistemas embebidos"
+  ]
+}
